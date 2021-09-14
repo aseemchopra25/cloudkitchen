@@ -7,7 +7,8 @@ export const SidebarContainer=styled.aside`
     z-index:999;
     width:350px;
     height:100%;
-    background: #ffc500;
+    /* background: #ffc500; */
+    background: #f2a12c;
     display:grid;
     align-items:center;
     top: 0;
@@ -51,7 +52,7 @@ export const SidebarLink = styled(Link)`
     display:flex;
     align-items:center;
     justify-content:center;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     text-decoration: none;
     list-style: none;
     transition: 0.2s ease-in-out;
@@ -60,6 +61,7 @@ export const SidebarLink = styled(Link)`
 
     &:hover{
         color: #e31837;
+        background-color:#fff;
         transition:0.2s ease-in-out
     }
 `;

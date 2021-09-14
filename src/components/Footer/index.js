@@ -1,6 +1,8 @@
 import React from 'react'
 import {FaFacebook, FaInstagram, FaYoutube, FaTwitter} from 'react-icons/fa';
 import {FooterContainer, FooterWrap, SocialIconLink, SocialMedia, SocialIcons, SocialLogo, SocialMediaWrap} from './FooterElements';
+import Logo1 from '../../images/logo1.png'
+
 const Footer = () => {
     return (
         <FooterContainer>
@@ -8,7 +10,7 @@ const Footer = () => {
                 <SocialMedia>
                     <SocialMediaWrap>
                         <SocialLogo to="/">
-                            Pizza
+                        <img src={Logo1} alt="logo"/>CLOUDKITCHEN
                         </SocialLogo>
                         <SocialIcons>
                             <SocialIconLink href="/" target="_blank" aria-label="Facebook" rel="noopener noreferrer">

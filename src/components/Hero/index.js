@@ -2,6 +2,7 @@ import React, {useState} from 'react';
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
 import {HeroContainer, HeroContent, HeroItems, HeroP, HeroH1, HeroBtn} from './HeroElements';
+import { AnimatedText } from '../AnimatedText';
 const Hero = () => {
     
     const [isOpen,setIsOpen] = useState(false)
@@ -15,8 +16,13 @@ const Hero = () => {
             <Sidebar isOpen={isOpen} toggle={toggle}/>
             <HeroContent>
                 <HeroItems>
-                    <HeroH1>Greatest Pizza Ever</HeroH1>
-                    <HeroP>Ready in 60 seconds</HeroP>
+                    <HeroH1>
+                        <AnimatedText 
+                            textColor="#cd122d" 
+                            overlayColor="#f2a12c"
+                            >CLOUDKITCHEN</AnimatedText>
+                    </HeroH1>
+                    <HeroP>Covid Safe Flight Food Experience</HeroP>
                     <HeroBtn>Place Order</HeroBtn>
                 </HeroItems>
             </HeroContent>

@@ -20,10 +20,17 @@ export const NavLink = styled(Link)`
     text-decoration: none;
     cursor: pointer;
 
+    img{
+        width:100px;
+    }
     @media screen and (max-width: 400px){
         position:absolute;
         top: 10px;
         left: 25px;
+        
+        img{
+            width:50px;;
+        }
     }
 `;
 
