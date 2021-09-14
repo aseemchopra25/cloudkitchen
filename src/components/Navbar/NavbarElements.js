@@ -1,3 +1,5 @@
+// Design and styling of the first view of the website - Hero Section Elements
+
 import styled from "styled-components";
 import {NavLink as Link} from 'react-router-dom';
 import { FaPizzaSlice } from 'react-icons/fa';

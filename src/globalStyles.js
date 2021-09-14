@@ -1,3 +1,4 @@
+//Global Styles File for App.js
 import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
