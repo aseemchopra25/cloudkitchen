@@ -9,10 +9,10 @@ export const HeroContainer=styled.div`
 
 
 export const HeroContent = styled.div`
-    height:calc(100vh -80px);
+    /* height:calc(100vh -80px);
     max-height: 100%fit-content;
     width: 100vw;
-    padding: 0rem calc((100vw -1300px)/2);
+    padding: 0rem calc((100vw -1300px)/2); */
 `;
 
 export const HeroItems = styled.div`
