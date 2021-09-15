@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cloudkitchen/static/css/main.133dda9a.chunk.css",
+    "main.js": "/cloudkitchen/static/js/main.2a9859e6.chunk.js",
+    "main.js.map": "/cloudkitchen/static/js/main.2a9859e6.chunk.js.map",
+    "runtime-main.js": "/cloudkitchen/static/js/runtime-main.f9143405.js",
+    "runtime-main.js.map": "/cloudkitchen/static/js/runtime-main.f9143405.js.map",
+    "static/js/2.e647e0de.chunk.js": "/cloudkitchen/static/js/2.e647e0de.chunk.js",
+    "static/js/2.e647e0de.chunk.js.map": "/cloudkitchen/static/js/2.e647e0de.chunk.js.map",
+    "index.html": "/cloudkitchen/index.html",
+    "static/css/main.133dda9a.chunk.css.map": "/cloudkitchen/static/css/main.133dda9a.chunk.css.map",
+    "static/js/2.e647e0de.chunk.js.LICENSE.txt": "/cloudkitchen/static/js/2.e647e0de.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/cloudkitchen/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/cloudkitchen/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/cloudkitchen/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/cloudkitchen/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/cloudkitchen/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-1.6a6ef41a.jpg": "/cloudkitchen/static/media/sweet-1.6a6ef41a.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/cloudkitchen/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/cloudkitchen/static/media/sweet-3.badeecbe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9143405.js",
+    "static/js/2.e647e0de.chunk.js",
+    "static/css/main.133dda9a.chunk.css",
+    "static/js/main.2a9859e6.chunk.js"
+  ]
+}
